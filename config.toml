@@ -1,4 +1,4 @@
-baseURL = "/" # https://vrtliceralde.com/
+baseURL = "https://vrtliceralde.com/" #
 theme = "hugo-apero"
 languageCode = "en"
 title = "Van Rynald T. Liceralde"
