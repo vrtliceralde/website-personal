@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Van's landing page"
   favicon = "/img/glasses.svg"
   logo = ""
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["about", "cv", "papers"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = ""
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "vrtliceralde"
 
@@ -140,9 +140,14 @@ enableEmoji = true
   # Configure header
   [[menu.header]]
     name = "About"
-    title = "About Van"
+    title = "About"
     url = "/about/"
     weight = 1
+  # [[menu.header]] # Need to put Research tab here in addition to
+  #   name = "Research"
+  #   title = "Research"
+  #   url = "/research/"
+  #   weight = 5
   [[menu.header]]
     name = "CV"
     title = "CV"
@@ -154,20 +159,16 @@ enableEmoji = true
     url = "/papers/"
     weight = 3
   [[menu.header]]
-    name = "Slides"
-    title = "Slides"
-    url = "/slides/"
+    name = "Collaborate"
+    title = "Collaborate"
+    url = "/collaborate/"
     weight = 4
-  [[menu.header]]
-    name = "Resources"
-    title = "Resources"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Charot"
-    title = "Charot"
-    url = "/charot/"
-    weight = 6
+
+  # [[menu.header]]
+  #   name = "Charot"
+  #   title = "Charot"
+  #   url = "/charot/"
+  #   weight = 6
 
   # Configure footer
   [[menu.footer]]
