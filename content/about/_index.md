@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Van's personal website.
+  About section of Van's personal website.
 show_header: false
 sidebar_left: true
 title: About Van

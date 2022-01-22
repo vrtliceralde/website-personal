@@ -151,18 +151,18 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/"
+    url = "/cv/cv_vrtliceralde_2022-01.pdf"
     weight = 2
   [[menu.header]]
     name = "Papers"
     title = "Papers"
     url = "/papers/"
     weight = 3
-  [[menu.header]]
-    name = "Collaborate"
-    title = "Collaborate"
-    url = "/collaborate/"
-    weight = 4
+  # [[menu.header]]
+  #   name = "Collaborate"
+  #   title = "Collaborate"
+  #   url = "/collaborate/"
+  #   weight = 4
 
   # [[menu.header]]
   #   name = "Charot"
@@ -171,16 +171,16 @@ enableEmoji = true
   #   weight = 6
 
   # Configure footer
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+  # [[menu.footer]]
+  #  name = "License"
+  #  title = "License"
+  #  url = "/license/"
+  #  weight = 1
+  # [[menu.footer]]
+  #  name = "Contact"
+  #  title = "Contact form"
+  #  url = "/contact/"
+  #  weight = 2
   # [[menu.footer]]
   #   name = "Contributors"
   #   title = "Contributors"
