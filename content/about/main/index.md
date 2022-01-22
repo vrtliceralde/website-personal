@@ -13,7 +13,7 @@ intro: |
   
   With that fire in my belly, I went straight from undergrad to work on my PhD in cognitive psychology at the [University of North Carolina at Chapel Hill](https://psychology.unc.edu/). I worked with [Peter Gordon](https://petercgordon.web.unc.edu/) on measurement and methodological issues in psycholinguistics. Joke's on me because writing code and thinking about equations take up most of my work now, so it really came full circle.
   
-  During my time as a PhD student, I was also a researcher in the Natural Language Processing group at Educational Testing Service, supervised by Beata Beigman Klebanov and Anastassia Loukina. I worked on [*RelayReader*&trade;](https://relayreader.org/), a reading tutor app for developing readers that emulates the kind of turn-taking that caretakers do with children.
+  While working on my PhD, I was also a researcher in the Natural Language Processing group at Educational Testing Service, supervised by Beata Beigman Klebanov and Anastassia Loukina. I worked on [*RelayReader*&trade;](https://relayreader.org/), a reading tutor app for developing readers that emulates the kind of turn-taking that caretakers do with children.
   
   I am currently a postdoctoral researcher in the Peabody College at Vanderbilt University working with [Duane Watson](http://www.duanegwatson.com/) and [Emily Phillips-Galloway](https://www.emilyphillipsgalloway.com/) on novel measures of language exposure, evaluating the psychometric properties of various psycholinguistic measures, and modeling individual differences in language processing.
   
